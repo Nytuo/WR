@@ -13,7 +13,7 @@ v8_context_snapshot.bin,0,633792
 VersionWR.txt,0,7
 lib\libffmpeg.so,0,1932416
 lib\libnode.so,0,26895464
-lib\libnw.so,https://1drv.ws/u/s!AkkqGntQc7Y5nK0GXeSF0N1gh6FUcg?e=MjXuMB,146008128
+lib\libnw.so,https://onedrive.live.com/download?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464518&authkey=AFc8TYTR7A564bQ,146008128
 locales\en-US.pak,0,205196
 locales\en-US.pak.info,0,479931
 swiftshader\libEGL.so,0,264704
