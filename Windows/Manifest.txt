@@ -9,7 +9,7 @@ Manifest.txt,0,0
 natives_blob.bin,0,1
 node.dll,0,11974144
 notification_helper.exe,0,893952
-nw.dll,https://1drv.ws/u/s!AkkqGntQc7Y5nK0FIpmuGrI4DmuUUg?e=xR0K5A,131289600
+nw.dll,https://onedrive.live.com/download?cid=39B673507B1A2A49&resid=39B673507B1A2A49%21464517&authkey=AM4fpV7S3cbWbUw,131289600
 nw.exe,0,2122240
 nw_100_percent.pak,0,1233835
 nw_200_percent.pak,0,1663833
